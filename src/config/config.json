@@ -1,0 +1,49 @@
+{
+  "site": {
+    "title": "Hello Insurance",
+    "base_url": "https://hello-insurance.github.io",
+    "base_path": "/hello-insurance-web",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "147",
+    "logo_height": "31",
+    "logo_text": "Hello Insurance"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 100,
+    "blog_folder": "blog"
+  },
+
+  "call_to_action": {
+    "title": "Helping teams in the world with focus",
+    "description": "Hello Insurance is a platform that helps you find the best insurance for your needs.",
+    "button": {
+      "label": "Get Started",
+      "link": "https://helloinsurance.dev"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "hello-insurance-template",
+    "settings": {}
+  },
+
+  "params": {
+    "footer_description": "Hello Insurance is a platform that helps you find the best insurance for your needs.",
+    "email": "service@helloinsurance.dev",
+    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
+    "phone": "+704-555-0127",
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2024 helloinsurance.dev"
+  },
+
+  "metadata": {
+    "meta_author": "HelloInsurance",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Hello Insurance"
+  }
+}
